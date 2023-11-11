@@ -9,7 +9,7 @@ Le projet en quelques mots :<br>
 <br>À partir de données publiques et gratuites issues du site de la FAO (organisme de l'ONU chargé des questions d'alimentation et d'agriculture), nous avions pour charge de répondre à trois intervenants dans le cadre d'une étude de santé publique fictive.
 <br>
 <br>
-Grâce à Python, nous explorions quatres fichiers ("aide_alimentaire.csv", "dispo_alimentaire.csv", "population.csv", "sous_nutrition.csv") pour fournir les informations perninentes demandées par nos trois interlocuteurs.
+Grâce à Python, nous explorions quatres fichiers ("aide_alimentaire.csv", "dispo_alimentaire.csv", "population.csv", "sous_nutrition.csv") pour fournir les informations pertinentes demandées par nos trois interlocuteurs.
 <br>
 
 
