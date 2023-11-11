@@ -1,6 +1,6 @@
 # Explorer des données de santé publique grâce à Python 🎗
 
-👨‍🎓 Projet réalisé dans le cadre de la formation diplômante "Data Analyst".<br>
+👨‍🎓 Projet réalisé dans le cadre de la formation diplômante "Data Analyst" d'OpenClassRooms.<br>
 🛠 Mots clés : **Python, DataFrame, nettoyage et exploration de données, Seaborn, Matplotlib, Plotly Express.**
 
 ---
