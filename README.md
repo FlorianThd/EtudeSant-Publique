@@ -16,4 +16,4 @@ Grâce à Python, nous explorions quatres fichiers ("aide_alimentaire.csv", "dis
 ---
 
 👋 Merci de votre lecture !<br>
-✏️ N'hésitez pas à me contacter si vous avez des remarques ou questions à fthouraud@pm.me 
+✏️ N'hésitez pas à me contacter si vous avez des remarques ou questions via [mon Linkedin](https://www.linkedin.com/in/florian-thouraud) 
